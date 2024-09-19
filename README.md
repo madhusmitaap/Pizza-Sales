@@ -4,7 +4,7 @@
 
 This Power BI report provides insightful visualizations and key performance indicators (KPIs) based on a dataset of pizza sales. The underlying data is extracted from the `pizza_sales` table using SQL queries.
 
-
+![Image](pizzaSalesImage.png)
 ## Key Performance Indicators (KPIs)
 
 ### A. KPI’s
